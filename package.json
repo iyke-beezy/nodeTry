@@ -1,0 +1,27 @@
+{
+  "name": "nodetry",
+  "version": "1.0.0",
+  "description": "this is to test aws",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyke-beezy/nodeTry.git"
+  },
+  "keywords": [
+    "aws",
+    "EC2"
+  ],
+  "author": "iyke-beezy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iyke-beezy/nodeTry/issues"
+  },
+  "homepage": "https://github.com/iyke-beezy/nodeTry#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
